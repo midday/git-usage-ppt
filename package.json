@@ -1,0 +1,20 @@
+{
+  "name": "git-usage-ppt",
+  "version": "1.0.0",
+  "description": "git使用PPT",
+  "dependencies": {
+    "nodeppt": "^1.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodeppt start -d ./"
+  },
+  "keywords": [
+  ],
+  "author": "midday",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/midday/git-usage-ppt.git"
+  },
+  "license": "MIT"
+}
